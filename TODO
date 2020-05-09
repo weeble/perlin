@@ -1,0 +1,10 @@
+
+
+
+Next time:
+
+* Have an interpolation function that inputs a 2D array of functions, and outputs a function that colours 2D space by interpolating between the nearest elements in the original array.
+
+Caveat:
+
+* Our existing colour_point_by_gradient always centers the gradient on (0,0).
